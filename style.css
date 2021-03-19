@@ -113,6 +113,7 @@ body {
 .details .skills__item {
   margin-bottom: 10px;
 }
+.details.s
 .details .skills__item .right input {
   display: none;
 }
@@ -126,4 +127,7 @@ body {
 }
 .details .skills__item .right input:checked + label {
   background: #79A9CE;
+}
+.section .inter{
+  color:rgb(177, 204, 223);font-size:9px;
 }
