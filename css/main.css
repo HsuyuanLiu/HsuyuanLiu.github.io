@@ -431,17 +431,17 @@ blockquote {
   color: unset;
 }
 .index-article-header .index-article-header-title {
-  font-size: 24px;
+  font-size: 22px;
   line-height: 42px;
   opacity: 0.96;
 }
 .index-article-header .index-article-header-category {
-  font-size: 20px;
+  font-size: 18px;
   line-height: 30px;
   opacity: 0.59;
 }
 .index-article-header .index-article-header-date {
-  font-size: 18px;
+  font-size: 16px;
   line-height: 27px;
   opacity: 0.75;
 }
