@@ -102,9 +102,7 @@ theme: insulin
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-# Deployment
-## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/HsuyuanLiu/HsuyuanLiu.github.io.git
+  repo:  https://github.com/HsuyuanLiu/HsuyuanLiu.github.io.git
   branch: master
