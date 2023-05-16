@@ -1,7 +1,7 @@
 papers:
 
-  - title: "Engaging Politically Diverse Audiences on Social Media"
-    authors: "<b>Martin Saveski</b>, Doug Beeferman, David McClure, Deb Roy"
-    venue: "ICWSM'22: International AAAI Conference on Web and Social Media. 2022."
+  - title: "{T}ree{MAN}: Tree-enhanced Multimodal Attention Network for {ICD} Coding "
+    authors: "Zichen Liu, <b>Xuyuan Liu</b>, Yanlong Wen, Guoqing Zhao, Fen Xia, Xiaojie Yuan"
+    venue: "COLING'22:  International Conference on Computational Linguistics."
     paper_pdf: "/assets/publications/2022_newsbridge/paper.pdf"
     selected: y
