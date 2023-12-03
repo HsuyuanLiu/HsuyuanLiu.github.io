@@ -2,6 +2,6 @@ papers:
 
   - title: "TreeMAN: Tree-enhanced Multimodal Attention Network for ICD Coding "
     authors: "Zichen Liu, <b>Xuyuan Liu</b>, Yanlong Wen, Guoqing Zhao, Fen Xia, Xiaojie Yuan"
-    venue: "COLING'22:  International Conference on Computational Linguistics."
+    venue: "COLING'22<i>(ORAL)</i>:  International Conference on Computational Linguistics."
     paper_pdf: "/assets/publications/2022_coling_treeman/paper.pdf"
     selected: y
